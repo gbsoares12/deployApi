@@ -1,0 +1,555 @@
+Id;bairro;nome_rua;segunda_manha;segunda_tarde;terca_manha;terca_tarde;quarta_manha;quarta_tarde;quinta_manha;quinta_tarde;sexta_manha;sexta_tarde;sabado_manha;sabado_tarde;tipo_coleta
+1;Bairro São Miguel;Rua Albertina Gramkow;X;;;;;;;;;;;;SELETIVA
+2;Bairro São Miguel;Rua Alberto Fuchs;X;;;;;;;;;;;;SELETIVA
+3;Bairro São Miguel;Rua Azza;X;;;;;;;;;;;;SELETIVA
+4;Bairro São Miguel;Rua André Lino;X;;;;;;;;;;;;SELETIVA
+5;Bairro Areado;Rua Bahia;X;;;;;;;;;;;;SELETIVA
+6;Bairro Areado;Rua Belém;X;;;;;;;;;;;;SELETIVA
+7;Bairro Centro;Rua Belvedere;X;;;;;;;;;;;;SELETIVA
+8;Bairro São Miguel;BR 470 (S. São Miguel e Saxônia);X;;;;;;;;;;;;SELETIVA
+9;Bairro São Miguel;Rua Júlio Schneider;X;;;;;;;;;;;;SELETIVA
+10;Bairro São Miguel;Rua Carl Bahr;X;;;;;;;;;;;;SELETIVA
+11;Bairro São Miguel;Rua das Flores;X;;;;;;;;;;;;SELETIVA
+12;Bairro São Miguel;Rua da Empresa (Aterro);X;;;;;;;;;;;;SELETIVA
+13;Bairro Dalbérgia;Rua da Balsa;X;;;;;;;;;;;;SELETIVA
+14;Bairro Centro;Rua Emilio Eberspacher;X;;;;;;;;;;;;SELETIVA
+15;Bairro São Miguel;Rua Egídio Kunzer;X;;;;;;;;;;;;SELETIVA
+16;Bairro Areado;Rua Germano Posanski;X;;;;;;;;;;;;SELETIVA
+17;Bairro São Miguel;Rua Joaquim Gramkow;X;;;;;;;;;;;;SELETIVA
+18;Bairro São Miguel;Rua José Manuel de Andrade;X;;;;;;;;;;;;SELETIVA
+19;Bairro São Miguel;Rua Júlio Schneider;X;;;;;;;;;;;;SELETIVA
+20;Bairro Areado;Rua Loteamento Luizinho;X;;;;;;;;;;;;SELETIVA
+21;Bairro Areado;Rua Mato Grosso;X;;;;;;;;;;;;SELETIVA
+22;Bairro São Miguel;Rua Moisés Amaral;X;;;;;;;;;;;;SELETIVA
+23;Bairro São Miguel;Rua Osmar Gradowski;X;;;;;;;;;;;;SELETIVA
+24;Bairro Areado;Rua Paraná;X;;;;;;;;;;;;SELETIVA
+25;Bairro São Miguel;Rua Pedro Antonio;X;;;;;;;;;;;;SELETIVA
+26;Bairro São Miguel;Rua Pedro Peron;X;;;;;;;;;;;;SELETIVA
+27;Bairro São Miguel;Rua Pedro Silva;X;;;;;;;;;;;;SELETIVA
+28;Bairro Areado;Rua Presidente Castelo Branco;X;;;;;;;;;;;;SELETIVA
+29;Bairro Areado;Rua Rio de Janeiro;X;;;;;;;;;;;;SELETIVA
+30;Bairro Areado;Rua Ribeirão Areado;X;;;;;;;;;;;;SELETIVA
+31;Bairro Areado;Rua Ribeirão das Pedras;X;;;;;;;;;;;;SELETIVA
+32;Bairro Areado;Rua Salvador;X;;;;;;;;;;;;SELETIVA
+33;Bairro São Miguel;Rua Santa Catarina;X;;;;;;;;;;;;SELETIVA
+34;Bairro São Miguel;Rua Salto Pilao;X;;;;;;;;;;;;SELETIVA
+35;Bairro Areado;Rua Tocantins;X;;;;;;;;;;;;SELETIVA
+36;Bairro São Miguel;Rua Valdomiro Vieira;X;;;;;;;;;;;;SELETIVA
+37;Bairro São Miguel;Rua Vicente P. de Amaral;X;;;;;;;;;;;;SELETIVA
+38;Bairro São Miguel;Travessa André Lino;X;;;;;;;;;;;;SELETIVA
+39;Bairro Dalbérgia;Avenida Missler;;;;;;;;X;;;;;SELETIVA
+40;Bairro Centro;Rua 3 de Maio;;;;;;;;X;;;;;SELETIVA
+41;Bairro Centro;Rua 11 de Março;;;;;;;X;;;;;;SELETIVA
+42;Bairro 25 de Julho;Rua 8 de Novembro;;;;;;;X;;;;;;SELETIVA
+43;Bairro Centro;Rua 15 de Novembro ;;;;;;;;X;;;;;SELETIVA
+44;Bairro Nova Stettin;Rua 17 de Março;;;;;;;;X;;;;;SELETIVA
+45;Bairro 25 de Julho;Rua 25 de Julho;;;;;;;X;;;;;;SELETIVA
+46;Bairro Operário;Rua Agrolândia;;;;;;;X;;;;;;SELETIVA
+47;Bairro Centro;Rua Agronômica;;;;;;;;X;;;;;SELETIVA
+48;Bairro Dalbérgia;Rua Alberto Fredel;;;;;;;;X;;;;;SELETIVA
+49;Bairro Centro;Rua Alberto Lann;;;;;;;;X;;;;;SELETIVA
+50;Bairro Anchieta;Rua Alfredo Braatz;;;;;;;X;;;;;;SELETIVA
+51;Bairro Dalbérgia;Rua Alvina Grahl;;;;;;;;X;;;;;SELETIVA
+52;Bairro Nova Stettin;Rua Amanda Grosch;;;;;;;;X;;;;;SELETIVA
+53;Bairro Operário;Rua Anita Cardozo Leal;;;;;;;X;;;;;;SELETIVA
+54;Bairro Centro;Rua Anita Garibaldi;;;;;;;;X;;;;;SELETIVA
+55;Bairro Nova Stettin;Rua Antônia Tambani;;;;;;;;X;;;;;SELETIVA
+56;Bairro Dalbérgia;Rua Arthur Hasse;;;;;;;;X;;;;;SELETIVA
+57;Bairro Taquaras;Rua Arthur Schfiter;;;;;;;X;;;;;;SELETIVA
+58;Bairro Dalbérgia;Rua Arthur Vanselow;;;;;;;;X;;;;;SELETIVA
+59;Bairro Nova Stettin;Rua Ascurra;;;;;;;;X;;;;;SELETIVA
+60;Bairro Operário;Rua Atalanta;;;;;;;X;;;;;;SELETIVA
+61;Bairro 25 de Julho;Rua Avelino Fossa;;;;;;;X;;;;;;SELETIVA
+62;Bairro Centro;Rua Blumenau (até a divisa do lote da Prefeitura Municipal – exclusive e Possamai - inclusive);;;;;;;X;;;;;;SELETIVA
+63;Bairro Anchieta;Rua Blumenau (da divisa do lote da Prefeitura Municipal – inclusive e Possamai exclusive, até a BR470);;;;;;;X;;;;;;SELETIVA
+64;Bairro Centro;Rua Brusque;;;;;;;X;;;;;;SELETIVA
+65;Bairro Anchieta;BR 470 (trevo Ibirama - Scussel);;;;;;;X;;;;;;SELETIVA
+66;Bairro Centro;Rua Carlos Reistenbach;;;;;;;X;;;;;;SELETIVA
+67;Bairro Nova Stettin;Rua Christian Striebel;;;;;;;;X;;;;;SELETIVA
+68;Bairro Taquaras;Rua Conrad Koepsel;;;;;;;X;;;;;;SELETIVA
+69;Bairro Dalbérgia;Rua Conselheiro Stolz;;;;;;;;X;;;;;SELETIVA
+70;Rua 25 de Julho;Rua Conibert Reig;;;;;;;X;;;;;;SELETIVA
+71;Bairro Nova Stettin;Rua das Palmeiras;;;;;;;;X;;;;;SELETIVA
+72;Bairro Centro;Rua Dom Pedro II;;;;;;;X;;;;;;SELETIVA
+73;Bairro Centro;Rua Dom Pio de Freitas;;;;;;;;X;;;;;SELETIVA
+74;Bairro Centro;Rua Dona Emma;;;;;;;X;;;;;;SELETIVA
+75;Bairro Dalbérgia;Rua do Loyd;;;;;;;;X;;;;;SELETIVA
+76;Bairro Dalbérgia;Rua dos Cidadões Livres;;;;;;;;X;;;;;SELETIVA
+77;Bairro Operário;Rua Dr. Nereu Ramos (Até Rua Gerd Schezel);;;;;;;X;;;;;;SELETIVA
+78;Bairro Operário;Rua Dr. Nereu Ramos (Depois R. Gerd Schezel);;;;;;;X;;;;;;SELETIVA
+79;Bairro Taquaras;Rua Duque de Caxias;;;;;;;X;;;;;;SELETIVA
+80;Bairro Centro;Rua Eduardo de Lima e Silva;;;;;;;X;;;;;;SELETIVA
+81;Bairro Dalbérgia;Rua Emílio Krause;;;;;;;;X;;;;;SELETIVA
+82;Bairro Bela Vista;Rua Erwyn Braatz;;;;;;;;X;;;;;SELETIVA
+83;Bairro 25 de Julho;Rua Leoclides da Silva;;;;;;;X;;;;;;SELETIVA
+84;Bairro Centro;Rua Engenheiro Perdeneiras;;;;;;;X;;;;;;SELETIVA
+85;Bairro Anchieta;Rua Florianópolis;;;;;;;X;;;;;;SELETIVA
+86;Bairro Dalbérgia;Rua Francisca Martendal;;;;;;;;X;;;;;SELETIVA
+87;Bairro Centro;Rua Francisco Kolbe;;;;;;;X;;;;;;SELETIVA
+88;Bairro Operário;Rua Franz Link;;;;;;;X;;;;;;SELETIVA
+89;Bairro Operário;Rua Frederico Schmidt;;;;;;;X;;;;;;SELETIVA
+90;Bairro Operário;Rua Friedrich Schlegel;;;;;;;X;;;;;;SELETIVA
+91;Bairro Centro;Rua Fritz Franke;;;;;;;X;;;;;;SELETIVA
+92;Bairro Centro;Rua Garuva;;;;;;;X;;;;;;SELETIVA
+93;Bairro Centro;Rua Gaspar;;;;;;;X;;;;;;SELETIVA
+94;Rua Heinrich Gubler;Rua Henrich Gubler;;;;;;;;X;;;;;SELETIVA
+95;Bairro Taquaras;Rua Hermann Koepsel;;;;;;;X;;;;;;SELETIVA
+96;Bairro Centro;Rua Ibá Goitacazes dos Reis;;;;;;;;X;;;;;SELETIVA
+97;Bairro Operário;Rua Iguape;;;;;;;X;;;;;;SELETIVA
+98;Bairro Operário;Rua Ilhabela;;;;;;;X;;;;;;SELETIVA
+99;Bairro 25 de Julho;Rua Imigrantes ;;;;;;;X;;;;;;SELETIVA
+100;Bairro Nova Stettin;Rua Indaial;;;;;;;;X;;;;;SELETIVA
+101;Bairro Operário;Rua Indaiatuba;;;;;;;X;;;;;;SELETIVA
+102;Bairro Anchieta;Rua Itaiópolis;;;;;;;X;;;;;;SELETIVA
+103;Bairro Centro;Rua Itajaí;;;;;;;X;;;;;;SELETIVA
+104;Bairro Dalbérgia;Rua João Galdino da Silva;;;;;;;;X;;;;;SELETIVA
+105;Bairro Centro;Rua Joinville;;;;;;;X;;;;;;SELETIVA
+106;Bairro Centro;Rua José Boiteux;;;;;;;X;;;;;;SELETIVA
+107;Bairro Anchieta;Rua José Cristino;;;;;;;X;;;;;;SELETIVA
+108;Bairro 25 de Julho;Rua José João Rossini;;;;;;;X;;;;;;SELETIVA
+109;Bairro Taquaras;Rua Júlio Lunelli;;;;;;;X;;;;;;SELETIVA
+110;Bairro Centro;Rua Laurentino;;;;;;;X;;;;;;SELETIVA
+111;Bairro Dalbérgia;Rua Lauro Müller;;;;;;;;X;;;;;SELETIVA
+112;Bairro Centro;Rua Leopoldo Monich;;;;;;;;X;;;;;SELETIVA
+113;Bairro Centro;Rua Lontras;;;;;;;X;;;;;;SELETIVA
+114;Bairro Dalbérgia;Rua Luiz Galdino da Silva;;;;;;;;X;;;;;SELETIVA
+115;Bairro Operário;Rua Luiz Pabst;;;;;;;X;;;;;;SELETIVA
+116;Bairro Taquaras;Rua Marcos Gramkow;;;;;;;X;;;;;;SELETIVA
+117;Bairro 25 de Julho;Rua Mariana Marx;;;;;;;X;;;;;;SELETIVA
+118;Bairro Ponto Chic;Rua Marquês do Herval(salão P Chick);;;;;;;;X;;;;;SELETIVA
+119;Bairro Centro;Rua Marquês do Herval (Zum Motos);;;;;;;;X;;;;;SELETIVA
+120;Bairro Centro;Rua Martin Schmölz;;;;;;;;X;;;;;SELETIVA
+121;Bairro Centro;Rua México;;;;;;;;X;;;;;SELETIVA
+122;Bairro São Miguel;Rua Marcilio Joao de Oliveira;;;;;;;X;;;;;;SELETIVA
+123;Bairro Dalbérgia;Rua Otto Cardoso;;;;;;;;X;;;;;SELETIVA
+124;Bairro Centro;Rua Otto João Lyra;;;;;;;X;;;;;;SELETIVA
+125;Bairro Dalbérgia;Rua Otto Lindner;;;;;;;;X;;;;;SELETIVA
+126;Bairro Anchieta;Rua Palestina;;;;;;;X;;;;;;SELETIVA
+127;Bairro Nova Stettin;Rua das Palmeiras;;;;;;;;X;;;;;SELETIVA
+128;Bairr Anchieta;Rua Paulo Müller;;;;;;;X;;;;;;SELETIVA
+129;Bairro Dalbérgia;Rua Pedro Carlos Gonçalves;;;;;;;;X;;;;;SELETIVA
+130;Bairro Centro;Rua Plácido Trentini;;;;;;;X;;;;;;SELETIVA
+131;Bairro Nova Stettin;Rua Pomerode;;;;;;;;X;;;;;SELETIVA
+132;Bairro Operário;Rua Presidente Juscelino;;;;;;;X;;;;;;SELETIVA
+133;Bairro 25 de Julho;Rua Primavera;;;;;;;X;;;;;;SELETIVA
+134;Bairro Centro;Rua Regente Feijó;;;;;;;;X;;;;;SELETIVA
+135;Bairro Nova Stettin;Rua Reinhold Müller;;;;;;;;X;;;;;SELETIVA
+136;Bairro Centro;Rua Ricardo Müller;;;;;;;X;;;;;;SELETIVA
+137;Bairro Centro;Rua Rio do Sul;;;;;;;X;;;;;;SELETIVA
+138;Bairro Dalbérgia;Rua Roberto Gubler;;;;;;;;X;;;;;SELETIVA
+139;Bairro Nova Stettin;Rua Rodeio;;;;;;;;X;;;;;SELETIVA
+140;Bairro Taquaras;Rua Rodolfo Koepsel;;;;;;;X;;;;;;SELETIVA
+141;Bairro Nova Stettin;Rua São João Batista;;;;;;;;X;;;;;SELETIVA
+142;Bairro Dalbérgia;Rua Scharlach;;;;;;;;X;;;;;SELETIVA
+143;Bairro Dalbérgia;Rua Siegrified Reiner;;;;;;;;X;;;;;SELETIVA
+144;Bairro Nova Stettin;Rua Timbó;;;;;;;;X;;;;;SELETIVA
+145;Bairro Centro;Rua Tiradentes;;;;;;;;X;;;;;SELETIVA
+146;Bairro Taquaras;Rua Taquaras;;;;;;;X;;;;;;SELETIVA
+147;Bairro Centro;Rua Vereador Alberto Laun;;;;;;;;X;;;;;SELETIVA
+148;Bairro Operário;Rua Vereador Gerd Schlegel;;;;;;;X;;;;;;SELETIVA
+149;Bairro Centro;Rua Vitor Meirelles;;;;;;;X;;;;;;SELETIVA
+150;Bairro Dalbérgia;Rua Vidal Ramos Júnior;;;;;;;;X;;;;;SELETIVA
+151;Bairro Centro;Rua Willy Luderwaldt;;;;;;;X;;;;;;SELETIVA
+152;Bairro Dalbérgia;Tifa Seca;;;;;;;;X;;;;;SELETIVA
+153;Bairro Ponto Chic;Rua 1º de Maio;;;;;;;;;X;;;;SELETIVA
+154;Bairro Bela Vista;Ra 7 de setembro;;;;;;;;;X;;;;SELETIVA
+155;Bairro Centro;Rua 11 de Março;;;;;;;;;X;;;;SELETIVA
+156;Bairro Centro;Rua 15 de Novembro ;;;;;;;;;;X;;;SELETIVA
+157;Bairro Centro;Rua 15 de Novembro (acima polícia);;;;;;;;;;X;;;SELETIVA
+158;Bairro Ponto Chic;Rua Adolfo Eskelsen;;;;;;;;;X;;;;SELETIVA
+159;Bairro Centro;Rua Adolfo Fiedler;;;;;;;;;;X;;;SELETIVA
+160;Bairro Progresso;Rua Adolfo Koelbel;;;;;;;;;X;;;;SELETIVA
+161;Bairro Ponto Chic;Rua Adolfo Reinecke;;;;;;;;;X;;;;SELETIVA
+162;Bairro Progresso;Rua Adolfo Zaiser;;;;;;;;;X;;;;SELETIVA
+163;Bairro Ponto Chic;Rua Adolfo Wagner;;;;;;;;;X;;;;SELETIVA
+164;Bairro Centro;Rua Alberto Lessa;;;;;;;;;;X;;;SELETIVA
+165;Bairro Ponto Chic;Rua Alfred Schifter;;;;;;;;;X;;;;SELETIVA
+166;Bairro Centro;Rua Alfredo Kummrow;;;;;;;;;;X;;;SELETIVA
+167;Bairro Ponto Chic;Rua Almirante Tamandaré;;;;;;;;;;X;;;SELETIVA
+168;Bairro Bela Vista;Rua Alwin Baucke;;;;;;;;;X;;;;SELETIVA
+169;Bairro Centro;Rua Alwin Duwe;;;;;;;;;;X;;;SELETIVA
+170;Bairro Ponto Chic;Rua Andreas Weschenfelder;;;;;;;;;X;;;;SELETIVA
+171;Bairro Bela Vista;Rua Arthur Hermann;;;;;;;;;X;;;;SELETIVA
+172;Bairro Bela Vista;Rua Arthur Krambeck;;;;;;;;;X;;;;SELETIVA
+173;Bairro Bela Vista;Rua Arthur Müller;;;;;;;;;X;;;;SELETIVA
+174;Bairro Bela Vista;Rua Aurora;;;;;;;;;X;;;;SELETIVA
+175;Bairro Operário;Rua Atlantida ;;;;;;;;;X;;;;SELETIVA
+176;Bairro Centro;Rua Barão do Rio Branco;;;;;;;;;X;;;;SELETIVA
+177;Bairro Nova Stattin;Rua Bertoldo Larsen;;;;;;;;;X;;;;SELETIVA
+178;Bairro Ponto Chic;Rua Carl Laemmle;;;;;;;;;X;;;;SELETIVA
+179;Bairro Bela Vista;Rua Castro Alves;;;;;;;;;X;;;;SELETIVA
+180;Bairro Bela Vista;Rua Curt José Rosenfelder;;;;;;;;;X;;;;SELETIVA
+181;Bairro Progresso;Rua da Paz;;;;;;;;;X;;;;SELETIVA
+182;Bairro Bela Vista;Rua Dom Bosco;;;;;;;;;X;;;;SELETIVA
+183;Bairro Centro;Rua Dorval Fritz;;;;;;;;;;X;;;SELETIVA
+184;Bairro Centro;Rua Dr. Getúlio Vargas (até o Bombeiro);;;;;;;;;X;;;;SELETIVA
+185;Bairro Bela Vista;Rua Dr. Getúlio Vargas (depois do Bombeiro);;;;;;;;;X;;;;SELETIVA
+186;Bairro Ponto Chic;Rua Elisabeth Weschenfelder;;;;;;;;;X;;;;SELETIVA
+187;Bairro Bela Vista;Rua Emílio Odebrecht;;;;;;;;;X;;;;SELETIVA
+188;Bairro Bela Vista;Rua Erich Henschel;;;;;;;;;X;;;;SELETIVA
+189;Bairro Progresso;Rua Erich Krause;;;;;;;;;X;;;;SELETIVA
+190;Bairro Bela Vista;Rua Ernesto Braatz;;;;;;;;;X;;;;SELETIVA
+191;Bairro Progresso;Rua Floresta;;;;;;;;;X;;;;SELETIVA
+192;Bairro Centro;Rua Franz Roedel;;;;;;;;;;X;;;SELETIVA
+193;Bairro Ponto Chic;Rua Frederico Paupitz;;;;;;;;;X;;;;SELETIVA
+194;Bairro Bela Vista;Rua General Osório;;;;;;;;;X;;;;SELETIVA
+195;Bairro Progresso;Rua Georg Basedow;;;;;;;;;X;;;;SELETIVA
+196;Bairro Ponto Chic;Rua Gotlieb Krambeck;;;;;;;;;X;;;;SELETIVA
+197;Bairro Bela Vista;Rua Guarani (até a Rua Adolfo Zeiser – exclusive);;;;;;;;;X;;;;SELETIVA
+198;Bairro Progresso;Rua Guarani (da Rua Adolfo Zeiser – inclusive, até o final do perímetro urbano);;;;;;;;;X;;;;SELETIVA
+199;Bairro Ponto Chic;Rua Hamônia;;;;;;;;;X;;;;SELETIVA
+200;Bairro Centro;Rua Henrich Berg;;;;;;;;;X;;;;SELETIVA
+201;Bairro Dalbérgia;Rua Henrich Gubler;;;;;;;;;;;;;SELETIVA
+202;Bairro Ponto Chic;Rua Heinz Otto Dieling;;;;;;;;;X;;;;SELETIVA
+203;Bairro Progresso;Rua Helmuth Hohl;;;;;;;;;X;;;;SELETIVA
+204;Bairro Ponto Chic;Rua Henrique Blank;;;;;;;;;;X;;;SELETIVA
+205;Bairro Progresso;Rua Herbert Radloff;;;;;;;;;X;;;;SELETIVA
+206;Bairro Bela Vista;Rua Herbert Wartha;;;;;;;;;X;;;;SELETIVA
+207;Bairro Centro;Rua Hermann Aichinger;;;;;;;;;;X;;;SELETIVA
+208;Bairro Progresso;Rua Hermann Koehler;;;;;;;;;X;;;;SELETIVA
+209;Bairro Taquaras;Rua Hermann Koepsel;;;;;;;;;X;;;;SELETIVA
+210;Bairro Ponto Chic;Rua Hermann Schlup;;;;;;;;;X;;;;SELETIVA
+211;Bairro Areado;Rua Helmuth Botzan;;;;;;;;;X;;;;SELETIVA
+212;Bairro Centro;Rua Iguaçú;;;;;;;;;X;;;;SELETIVA
+213;Bairro Centro;Rua Imbuia;;;;;;;;;;X;;;SELETIVA
+214;Bairro Centro;Rua Indio Xokleng;;;;;;;;;;X;;;SELETIVA
+215;Bairro Ponto Chic;Rua Itália;;;;;;;;;X;;;;SELETIVA
+216;Bairro Centro;Rua Ituporanga;;;;;;;;;;X;;;SELETIVA
+217;Bairro Bela Vista;Rua Ivo Müller;;;;;;;;;X;;;;SELETIVA
+218;Bairro Ponto Chic;Rua João Aurich;;;;;;;;;X;;;;SELETIVA
+219;Bairro Ponto Chic;Rua João Duwe;;;;;;;;;;X;;;SELETIVA
+220;Bairro Centro;Rua João Weidmann;;;;;;;;;;X;;;SELETIVA
+221;Bairro Bela Vista;Rua José Bonifácio;;;;;;;;;X;;;;SELETIVA
+222;Bairro Ponto Chic;Rua José Wagner;;;;;;;;;X;;;;SELETIVA
+223;Bairro Centro;Rua Leopoldo Monich;;;;;;;;;;X;;;SELETIVA
+224;Bairro Centro;Rua Leopoldo Splitter;;;;;;;;;;X;;;SELETIVA
+225;Bairro Bela Vista;Rua Lino Moser;;;;;;;;;X;;;;SELETIVA
+226;Bairro Ponto Chic;Rua Luiz Rigo;;;;;;;;;;X;;;SELETIVA
+227;Bairro Bela Vista;Rua Machado de Assis;;;;;;;;;X;;;;SELETIVA
+228;Bairro Centro;Rua Magdalena Aichinger;;;;;;;;;;X;;;SELETIVA
+229;Bairro Centro;Rua Magdalena Aichinger ;;;;;;;;;;X;;;SELETIVA
+230;Bairro Centro;Rua Marcílio João da Silveira;;;;;;;;;X;;;;SELETIVA
+231;Bairro Bela Vista;Rua Marechal Deodoro;;;;;;;;;X;;;;SELETIVA
+232;Bairro Ponto Chic;Rua Marechal Rondon;;;;;;;;;X;;;;SELETIVA
+233;Bairro Centro;Rua Marquês do Herval (Zum Motos);;;;;;;;;;X;;;SELETIVA
+234;Bairro Ponto Chic;Rua Mirador;;;;;;;;;;X;;;SELETIVA
+235;Bairro Ponto Chic;Rua Otto Jost;;;;;;;;;X;;;;SELETIVA
+236;Bairro Ponto Chic;Rua Padre Anchieta;;;;;;;;;X;;;;SELETIVA
+237;Bairro Centro; Rua Padre Franz Eigmann;;;;;;;;;X;;;;SELETIVA
+238;Bairro Progresso;Rua Pedro Ringemberg;;;;;;;;;X;;;;SELETIVA
+239;Bairro Bela Vista;Rua Peter Schelle;;;;;;;;;X;;;;SELETIVA
+240;Bairro Ponto Chic;Rua Pouso Redondo;;;;;;;;;X;;;;SELETIVA
+241;Bairro Ponto Chic;Rua Presidente Costa e Silva;;;;;;;;;X;;;;SELETIVA
+242;Bairro Centro;Rua Presidente Getúlio;;;;;;;;;X;;;;SELETIVA
+243;Bairro Ponto Chic;Rua Presidente João Goulart;;;;;;;;;X;;;;SELETIVA
+244;Bairro Bela Vista;Rua Princesa Isabel;;;;;;;;;X;;;;SELETIVA
+245;Bairro Centro;Rua Profº Gertrud Aichinger;;;;;;;;;;X;;;SELETIVA
+246;Bairro Bela Vista;Rua Profª Helena Laun;;;;;;;;;X;;;;SELETIVA
+247;Bairro Ponto Chic;Rua Profª Nair Ribeiro;;;;;;;;;;X;;;SELETIVA
+248;Bairro Centro;Rua Richard Ewald;;;;;;;;;;X;;;SELETIVA
+249;Bairro Ponto Chic;Rua Rio do Oeste;;;;;;;;;X;;;;SELETIVA
+250;Bairro Progresso;Rua Rodolpho Koffke;;;;;;;;;X;;;;SELETIVA
+251;Bairro Centro;Rua Rodolf Maass;;;;;;;;;;X;;;SELETIVA
+252;Bairro Bela Vista;Rua Rozene Rossini;;;;;;;;;X;;;;SELETIVA
+253;Bairro Rafael;Rua Ribeirão Rafael;;;;;;;;;X;;;;SELETIVA
+254;Bairro Ponto Chic;Rua Salete;;;;;;;;;;X;;;SELETIVA
+255;Bairro Progresso;Rua Santa Cruz  (da Rua Adolfo Zeiser – inclusive, até o final do perímetro urbano);;;;;;;;;X;;;;SELETIVA
+256;Bairro Bela Vista;Rua Santa Cruz (até a Rua Adolfo Zeiser – exclusive);;;;;;;;;X;;;;SELETIVA
+257;Bairro Bela Vista;Rua Santos Dumont;;;;;;;;;X;;;;SELETIVA
+258;Bairro Ponto Chic;Rua Tancredo Neves;;;;;;;;;X;;;;SELETIVA
+259;Bairro Centro;Rua Tiradentes;;;;;;;;;;X;;;SELETIVA
+260;Bairro Progresso;Rua União;;;;;;;;;X;;;;SELETIVA
+261;Bairro Ponto Chic;Rua Veroni de Andrade;;;;;;;;;X;;;;SELETIVA
+262;Bairro Progresso;Rua Victor Holetz;;;;;;;;;X;;;;SELETIVA
+263;Bairro Progresso;Rua Walter Frech;;;;;;;;;X;;;;SELETIVA
+264;Bairro Progresso;Rua Walter Grahl;;;;;;;;;X;;;;SELETIVA
+265;Bairro Bela Vista;Rua Walter Ideker;;;;;;;;;X;;;;SELETIVA
+266;Bairro Bela Vista;Rua Werner Weber;;;;;;;;;X;;;;SELETIVA
+267;Bairro Ponto Chic;Rua Witmarsun;;;;;;;;;X;;;;SELETIVA
+268;Bairro Ponto Chic;Rua Adolfo Wagner;;X;;;;;;X;;;;;CONVENCIONAL
+269;Bairro Ponto Chic;Rua Alfred Schifter;;X;;;;;;X;;;;;CONVENCIONAL
+270;Bairro Ponto Chic;Rua Almirante Tamandaré;;X;;;;;;X;;;;;CONVENCIONAL
+271;Bairro Ponto Chic;Rua Carl Laemmle;;X;;;;;;X;;;;;CONVENCIONAL
+272;Bairro Ponto Chic;Rua Elisabeth Welchenfelder;;X;;;;;;X;;;;;CONVENCIONAL
+273;Bairro Ponto Chic;Rua Frederico Paupitz;;X;;;;;;X;;;;;CONVENCIONAL
+274;Bairro Ponto Chic;Rua Gottilieb Krambeck;;X;;;;;;X;;;;;CONVENCIONAL
+275;Bairro Ponto Chic;Rua Heinz Otto Dieling;;X;;;;;;X;;;;;CONVENCIONAL
+276;Bairro Ponto Chic;Rua Henrique Strey;;X;;;;;;X;;;;;CONVENCIONAL
+277;Bairro Ponto Chic;Rua Hermann Schlup;;X;;;;;;X;;;;;CONVENCIONAL
+278;Bairro Ponto Chic;Rua Itália;;X;;;;;;X;;;;;CONVENCIONAL
+279;Bairro Ponto Chic;Rua João Aurich;;X;;;;;;X;;;;;CONVENCIONAL
+280;Bairro Ponto Chic;Rua João Duwe;;X;;;;;;X;;;;;CONVENCIONAL
+281;Bairro Ponto Chic;Rua Padre Anchieta;;X;;;;;;X;;;;;CONVENCIONAL
+282;Bairro Ponto Chic;Rua Pouso Redondo;;X;;;;;;X;;;;;CONVENCIONAL
+283;Bairro Ponto Chic;Rua Presidente Costa e Silva;;X;;;;;;X;;;;;CONVENCIONAL
+284;Bairro Ponto Chic;Rua Raul Duwe;;X;;;;;;X;;;;;CONVENCIONAL
+285;Bairro Ponto Chic;Rua Rio do Oeste;;X;;;;;;X;;;;;CONVENCIONAL
+286;Bairro Ponto Chic;Rua Veroni de Andrade;;X;;;;;;X;;;;;CONVENCIONAL
+287;Bairro Ponto Chic;Rua Witmarsun;;X;;;;;;X;;;;;CONVENCIONAL
+288;Bairro Nova Stattin;Rua 17 de Março;;;;X;;;;;;X;;;CONVENCIONAL
+289;Bairro Nova Stattin;Rua Amanda Grosch;;;;X;;;;;;X;;;CONVENCIONAL
+290;Bairro Nova Stattin;Rua Antonia Tambani;;;;X;;;;;;X;;;CONVENCIONAL
+291;Bairro Nova Stattin;Rua Ascurra;;;;X;;;;;;X;;;CONVENCIONAL
+292;Bairro Nova Stattin;Rua Cristhian Striebel;;;;X;;;;;;X;;;CONVENCIONAL
+293;Bairro Nova Stattin;Rua das Palmeiras;;;;X;;;;;;X;;;CONVENCIONAL
+294;Bairro Nova Stattin;Rua Erwyn Braatz;;;;X;;;;;;X;;;CONVENCIONAL
+295;Bairro Nova Stattin;Rua Indaial;;;;X;;;;;;X;;;CONVENCIONAL
+296;Bairro Nova Stattin;Rua João Aurich;;X;;;;;;X;;;;;CONVENCIONAL
+297;Bairro Nova Stattin;Estrada Leopoldo Schifter;;X;;;;;;X;;;;;CONVENCIONAL
+298;Bairro Nova Stattin;Rua Marquês do Herval;;;;X;;;;;;X;;;CONVENCIONAL
+299;Bairro Nova Stattin;Rua Oscar Mett;;;;X;;;;;;X;;;CONVENCIONAL
+300;Bairro Nova Stattin;Rua Pomerode;;;;X;;;;;;X;;;CONVENCIONAL
+301;Bairro Nova Stattin;Rua Reinhold Müller;;;;X;;;;;;X;;;CONVENCIONAL
+302;Bairro Nova Stattin;Rua São João Batista;;;;X;;;;;;X;;;CONVENCIONAL
+303;Bairro Nova Stattin;Rua Timbó;;;;X;;;;;;X;;;CONVENCIONAL
+304;Bairro Dalbérgia;Rua Alberto Fredel;;;;X;;;;;;X;;;CONVENCIONAL
+305;Bairro Dalbérgia;Rua Alvina Grahl;;;;X;;;;;;X;;;CONVENCIONAL
+306;Bairro Dalbérgia;Rua Arthur Hasse;;;;X;;;;;;X;;;CONVENCIONAL
+307;Bairro Dalbérgia;Rua Arthur Vanselow;;;;X;;;;;;X;;;CONVENCIONAL
+308;Bairro Dalbérgia;Rua Conselheiro Stolz;;;;X;;;;;;X;;;CONVENCIONAL
+309;Bairro Dalbérgia;Rua do Loyd;;;;X;;;;;;X;;;CONVENCIONAL
+310;Bairro Dalbérgia;Rua Domingos João de Oliveira;;;;X;;;;;;X;;;CONVENCIONAL
+311;Bairro Dalbérgia;Rua dos Cidadões Livres;;;;X;;;;;;X;;;CONVENCIONAL
+312;Bairro Dalbérgia;Rua Emílio Krause;;;;X;;;;;;X;;;CONVENCIONAL
+313;Bairro Dalbérgia;Rua Francisca Martendal;;;;X;;;;;;X;;;CONVENCIONAL
+314;Bairro Dalbérgia;Rua Henrich Gubler;;;;X;;;;;;X;;;CONVENCIONAL
+315;Bairro Dalbérgia;Rua Lauro Müller;;;;X;;;;;;X;;;CONVENCIONAL
+316;Bairro Dalbérgia;Rua Luiz Galdino da Silva;;;;X;;;;;;X;;;CONVENCIONAL
+317;Bairro Dalbérgia;Rua Marquês do Herval;;;;X;;;;;;X;;;CONVENCIONAL
+318;Bairro Dalbérgia;Rua Otto Cardoso;;;;X;;;;;;X;;;CONVENCIONAL
+319;Bairro Dalbérgia;Rua Pedro Carlos Gonçalves;;;;X;;;;;;X;;;CONVENCIONAL
+320;Bairro Dalbérgia;Rua Roberto Gubler;;;;X;;;;;;X;;;CONVENCIONAL
+321;Bairro Dalbérgia;Rua Sambaqui;;;;X;;;;;;X;;;CONVENCIONAL
+322;Bairro Dalbérgia;Rua Scharlach;;;;X;;;;;;X;;;CONVENCIONAL
+323;Bairro Dalbérgia;Rua Siegrified Reiner;;;;X;;;;;;X;;;CONVENCIONAL
+324;Bairro Dalbérgia;Rua Vidal Ramos Júnior;;;;X;;;;;;X;;;CONVENCIONAL
+325;Bairro Dalbérgia;Avenida Missler;;;;X;;;;;;X;;;CONVENCIONAL
+326;Bairro Ponto Chic;Rua 1º de Maio;;X;;;;;;X;;;;;CONVENCIONAL
+327;Bairro Centro;Rua 3 de Maio;;X;;;;X;;;;X;;;CONVENCIONAL
+328;Bairro Bela Vista;Ra 7 de setembro;X;;;;;;X;;;;;;CONVENCIONAL
+329;Bairro Centro;Rua 11 de Março;X;;X;;;X;X;;X;;X;;CONVENCIONAL
+330;Bairro 25 de Julho;Rua 8 de Novembro;X;;;;X;;;;X;;;;CONVENCIONAL
+331;Bairro Centro;Rua 15 de Novembro ;;X;;;;X;;;;X;;;CONVENCIONAL
+332;Bairro Centro;Rua 15 de Novembro (acima polícia);X;;;;;;X;;;;;;CONVENCIONAL
+333;Bairro 25 de Julho;Rua 25 de Julho;X;;;;X;;;;X;;;;CONVENCIONAL
+334;Bairro Centro;Rua 1° de Abril;X;;;;;;X;;;;;;CONVENCIONAL
+335;Bairro São Miguel;Rua 4 de Abril;;;;;X;;;;;;;;CONVENCIONAL
+336;Bairro Ponto Chic;Rua Adolfo Eskelsen;;X;;;;;;X;;;;;CONVENCIONAL
+337;Bairro Centro;Rua Adolfo Fiedler;X;;;;;;X;;;;;;CONVENCIONAL
+338;Bairro Progresso;Rua Adolfo Koelbel;X;;;;;;X;;;;;;CONVENCIONAL
+339;Bairro Ponto Chic;Rua Adolfo Reinecke;;X;;;;;;X;;;;;CONVENCIONAL
+340;Bairro Progresso;Rua Adolfo Zaiser;X;;;;;;X;;;;;;CONVENCIONAL
+341;Bairro Operário;Rua Agrolandia ;;;X;;;;;;X;;;;CONVENCIONAL
+342;Bairro Centro;Rua Agronomica ;;X;;;;X;;;;X;;;CONVENCIONAL
+343;Bairro São Miguel;Rua Albertina Gramkow;;;;;X;;;;;;;;CONVENCIONAL
+344;Bairro São Miguel;Rua Alberto Fuchs;;;;;X;;;;;;;;CONVENCIONAL
+345;Bairro Centro;Rua Vereador Alberto Lann;;X;;;;X;;;;X;;;CONVENCIONAL
+346;Bairro Centro;Rua Alberto Lessa;;X;;;;X;;;;X;;;CONVENCIONAL
+347;Bairro Anchieta;Rua Alfredo Braatz;;;;;;;;;X;;;;CONVENCIONAL
+348;Bairro Centro;Rua Alfredo Kummrow;X;;;;;;X;;;;;;CONVENCIONAL
+349;Bairro Bela Vista;Rua Alwin Baucke;X;;;;;;X;;;;;;CONVENCIONAL
+350;Bairro Centro;Rua Alvin Duwe;;X;;;;;;X;;;;;CONVENCIONAL
+351;Bairro Operário;Rua Anita Cardoso Leal;;;X;;;;;;X;;;;CONVENCIONAL
+352;Bairro Centro;Rua Anita Garibaldi;;;X;;;;;;X;;;;CONVENCIONAL
+353;Bairro Ponto Chic;Rua Andreas Weschenfelder;;X;;;;;;X;;;;;CONVENCIONAL
+354;Bairro Bela Vista;Rua Arthur Hermann;X;;;;;;X;;;;;;CONVENCIONAL
+355;Bairro Bela Vista;Rua Arthur Krambeck;X;;;;;;X;;;;;;CONVENCIONAL
+356;Bairro Bela Vista;Rua Artur Muller;X;;;;;;X;;;;;;CONVENCIONAL
+357;Bairro Taquaras;Rua Arthur Schifter;;;;;;X;;;;;;;CONVENCIONAL
+358;Bairro Operário;Rua Atalanta;;;X;;;;;;X;;;;CONVENCIONAL
+359;Bairro Bela Vista;Rua Aurora;X;;;;;;X;;;;;;CONVENCIONAL
+360;Bairro 25 de Julho;Rua Avelino Fossa;X;;;;;X;;;X;;;;CONVENCIONAL
+361;Bairro Bela Vista;Rua Atlantida ;;;X;;;;;;X;;;;CONVENCIONAL
+362;Bairro São Miguel;Rua Azza;;;;;X;;;;;;;;CONVENCIONAL
+363;Bairro São Miguel;Travessa André Lino;;;;;X;;;;;;;;CONVENCIONAL
+364;Bairro Centro;Rua Alfredo Henschel ;X;;;;X;;;;X;;;;CONVENCIONAL
+365;Bairro Centro;Rua Anibal Tambani;;X;;;;;;X;;;;;CONVENCIONAL
+366;Bairro Areado;Rua Bahia;;;;;X;;;;;;;;CONVENCIONAL
+367;Bairro Centro;Rua Barão do Rio Branco;X;;X;;;X;X;;X;;X;;CONVENCIONAL
+368;Bairro Areado;Rua Belém;;;;;X;;;;;;;;CONVENCIONAL
+369;Bairro Bela Vista;Rua Bertholdo Larsen;X;;;;;;X;;;;;;CONVENCIONAL
+370;Bairro Centro;Rua Blumenau (até a Delegacia);X;;;;;X;;;X;;;;CONVENCIONAL
+371;Bairro Anchieta;Rua Blumenau (depois da Delegacia);;;X;;;;;;X;;;;CONVENCIONAL
+372;Bairro Centro;Rua Brusque;X;09:20;;;;X;;;X;;;;CONVENCIONAL
+373;Bairro Centro;Rua Belvedere ;;;;;X;;;;;;;;CONVENCIONAL
+374;Bairro São Miguel;BR 470 (S. São Miguel e Saxônia);;;;;X;;;;;;;;CONVENCIONAL
+375;Bairro  Anchieta;BR 470 (trevo Ibirama - Scussel);;;;;X;;;;;;;;CONVENCIONAL
+376;Bairro São Miguel;Rua Júlio Schneider;;;;;X;;;;;;;;CONVENCIONAL
+377;Bairro São Miguel;Rua Carl Bahr;;;;;X;;;;;;;;CONVENCIONAL
+378;Bairro Centro;Rua Carlos Reistenbach;X;;;;;X;;;X;;;;CONVENCIONAL
+379;Bairro Bela Vista;Rua Castro Alves;X;;;;;;X;;;;;;CONVENCIONAL
+380;Bairro Taquaras;Rua Conrad Koepsel;X;;;;;X;;;X;;;;CONVENCIONAL
+381;Bairro 25 de Julho;Rua Conibert Reig;;;;;X;;;;;;;;CONVENCIONAL
+382;Bairro Bela Vista;Rua Curt José Rosenfelder;X;;;;;;X;;;;;;CONVENCIONAL
+383;Bairro São Miguel;Rua das Flores;;;;;X;;;;;;;;CONVENCIONAL
+384;Bairro Progresso;Rua da Paz;X;;;;;;X;;;;;;CONVENCIONAL
+385;Bairro Areado;Rua das Flores (até o ribeirão Braço do Veado);;;;;X;;;;;;;;CONVENCIONAL
+386;Bairro São Miguel;Rua das Flores (da BR 470 até as terras de Moraes e Scursel);;;;;X;;;;;;;;CONVENCIONAL
+387;Bairro Bela Vista;Rua Dom Bosco;X;;;;;;X;;;;;;CONVENCIONAL
+388;Bairro Centro;Rua Dom Pedro II;X;;;;;X;;;X;;;;CONVENCIONAL
+389;Bairro Centro;Rua Dom Pio de Freitas;;X;;;;X;;;;X;;;CONVENCIONAL
+390;Bairro Centro;Rua Dona Emma;X;;;;;X;;;X;;;;CONVENCIONAL
+391;Bairro Centro;Rua Durval Fritz;X;;;;;;X;;;;;;CONVENCIONAL
+392;Bairro Centro;Rua Dr Getúlio Vargas (até a propriedade do FÓRUM – inclusive);X;;X;;;X;X;;X;;X;;CONVENCIONAL
+393;Bairro Bela Vista;Rua Dr. Getúlio Vargas (da propriedade do FÓRUM – exclusive);X;;;;;X;X;;;;X;;CONVENCIONAL
+394;Bairro Operario;Rua Dr. Nereu Ramos (Até R. Gerd Schezel);;;X;;;;;;X;;;;CONVENCIONAL
+395;Bairro Operario;Rua Dr. Nereu Ramos (Depois R. Gerd Schezel);;;X;;;;;;;;;;CONVENCIONAL
+396;Bairro Centro;Rua Duque de Caxias (até a Rua Plácido Trentini inclusive);X;;;;;X;;;X;;;;CONVENCIONAL
+397;Bairro Taquaras;Rua Duque de Caxias (da Rua Plácido Trentini – exclusive até o final do Perímetro Urbano);X;;;;;X;;;X;;;;CONVENCIONAL
+398;Bairro São Miguel;Rua Júlio Schneider;;;;;X;;;;;;;;CONVENCIONAL
+399;Bairro Centro;Rua Emilio Eberspacher;;;;;X;;;;;;;;CONVENCIONAL
+400;Bairro Centro;Rua Eduardo de Lima e Silva;;X;;;;X;;;;X;;;CONVENCIONAL
+401;Bairro São Miguel;Rua Egídio Kunzer;;;;;X;;;;;;;;CONVENCIONAL
+402;Bairro Bela Vista;Rua Emílio Odebrecht;X;;;;;;X;;;;;;CONVENCIONAL
+403;Bairro Bela Vista;Rua Erich Henschel;X;;;;;;X;;;;;;CONVENCIONAL
+404;Bairro Progresso;Rua Erich Krause;X;;;;;;X;;;;;;CONVENCIONAL
+405;Bairro Bela Vista;Rua Ernesto Braatz;X;;;;;;X;;;;;;CONVENCIONAL
+406;Bairro 25 de Julho;Rua Leoclides da Silva;X;;;;X;;;;X;;;;CONVENCIONAL
+407;Bairro Centro;Praça Engenheiro Perdeneiras;;;;;X;;;;;;;;CONVENCIONAL
+408;Bairro Taquaras;Rua Eduard Schifter;;;;X;;;;;;;;;CONVENCIONAL
+409;Bairro Centro;Rua Edgar Schifter;;;;X;;;;;;;;;CONVENCIONAL
+410;Bairro Progresso;Rua Floresta;X;;;;;;X;;;;;;CONVENCIONAL
+411;Bairro Anchieta;Rua Florianópolis;;;;;X;;;;;;;;CONVENCIONAL
+412;Bairro Dalbérgia;Rua Francisca Martendal;;;;X;;;;;;X;;;CONVENCIONAL
+413;Bairro Centro;Rua Francisco Kolbe;;;X;;;;;;X;;;;CONVENCIONAL
+414;Bairro Operário;Rua Franz Link (até o bueiro antes da propriedade de Roberto Braatz);;;X;;;;;;;;;;CONVENCIONAL
+415;Bairro Taquaras;Rua Franz Link (até o bueiro após a propriedade de Roberto Braatz);;;X;;;;;;;;;;CONVENCIONAL
+416;Bairro Centro;Rua Franz Roedel;;X;;;;X;;;;X;;;CONVENCIONAL
+417;Bairro Operário;Rua Frederico Schmidt;;;X;;;;;;X;;;;CONVENCIONAL
+418;Bairro Operário;Rua Friedrich Schlegel (até terrenos da Prefeitura Municipal e Ralf Kinder);;;X;;;;;;;;;;CONVENCIONAL
+419;Bairro Centro;Rua Fritz Franke;X;;;;;X;;;X;;;;CONVENCIONAL
+420;Bairro Centro;Rua Garuva;;;X;;;;;;X;;;;CONVENCIONAL
+421;Bairro Centro;Rua Gaspar;X;;;;;X;;;X;;;;CONVENCIONAL
+422;Bairro Bela Vista;Rua General Osório;X;;;;;;X;;;;;;CONVENCIONAL
+423;Bairro Progresso;Rua Georg Basedow;X;;;;;;X;;;;;;CONVENCIONAL
+424;Bairro Areado;Rua Germano Posanki;;;;;X;;;;;;;;CONVENCIONAL
+425;Bairro Bela Vista;Rua Guarani (até a Rua Adolfo Zeiser – exclusive);X;;;;;;X;;;;;;CONVENCIONAL
+426;Bairro Progresso;Rua Guarani (da Rua Adolfo Zeiser – inclusive, até o final do perímetro urbano);X;;;;;;X;;;;;;CONVENCIONAL
+427;Bairro Ponto Chic;Rua Hamônia;;X;;;;;;X;;;;;CONVENCIONAL
+428;Bairro Centro;Rua Henrich Berg;X;;;;;;X;;;;;;CONVENCIONAL
+429;Bairro Progresso;Rua Helmuth Hohl;X;;;;;;X;;;;;;CONVENCIONAL
+430;Bairro Ponto Chic;Rua Henrique Blanck;;X;;;;;;X;;;;;CONVENCIONAL
+431;Bairro Ponto Chic;Rua Sigolf Radloff;;;;;;;;;;;;;CONVENCIONAL
+432;Bairro Progresso;Rua Herbert Radloff;X;;;;;;X;;;;;;CONVENCIONAL
+433;Bairro Bela Vista;Rua Herbert Wartha;X;;;;;;X;;;;;;CONVENCIONAL
+434;Bairro Centro;Rua Hermann Aichinger;;X;;;;X;;;;X;;;CONVENCIONAL
+435;Bairro Progresso;Rua Hermann Koehler;X;;;;;;X;;;;;;CONVENCIONAL
+436;Bairro Taquaras;Rua Hermann Koepsel;X;;;;;X;;;X;;;;CONVENCIONAL
+437;Bairro Areado;Rua Helmuth Botzan;;;;;X;;;;;;;;CONVENCIONAL
+438;Bairro Centro;Rua Ibá Goitacazes dos Reis;;X;;;;X;;;;X;;;CONVENCIONAL
+439;Bairro Centro;Rua Iguaçu;X;;;;;;X;;;;;;CONVENCIONAL
+440;Bairro Operário;Rua Iguape;;;X;;;;;;X;;;;CONVENCIONAL
+441;Bairro Operário;Rua Ilhabela;;;X;;;;;;X;;;;CONVENCIONAL
+442;Bairro Centro;Rua Imbuia;;X;;;;;;X;;;;;CONVENCIONAL
+443;Bairro 25 de julho;Rua Imigrante;X;;;;X;;;;X;;;;CONVENCIONAL
+444;Bairro Operário;Rua Indaiatuba;;;X;;;;;;X;;;;CONVENCIONAL
+445;Bairro Centro;Rua Indio Xokleng;X;;;;;;X;;;;;;CONVENCIONAL
+446;Bairro Anchieta;Rua Itaiópolis;;;;;X;;;;;;;;CONVENCIONAL
+447;Bairro Centro;Rua Itajaí;;;X;;;;;;X;;;;CONVENCIONAL
+448;Bairro Centro;Rua Ituporanga;X;;;;;;X;;;;;;CONVENCIONAL
+449;Bairro Bela Vista;Rua Ivo Muller;X;;;;;;X;;;;;;CONVENCIONAL
+450;Bairro Dalbérgia;Rua João Galdino da Silva;;;;X;;;;;;X;;;CONVENCIONAL
+451;Bairro Centro;Rua João Weidmann;;X;;;;;;X;;;;;CONVENCIONAL
+452;Bairro São Miguel;Rua Joaquim Gramkow;;;;;X;;;;;;;;CONVENCIONAL
+453;Bairro Centro;Rua Joinville;X;;;;;X;;;X;;;;CONVENCIONAL
+454;Bairro Centro;Rua José Boiteux;;;X;;;;;;X;;;;CONVENCIONAL
+455;Bairro Bela Vista;Rua José Bonifácio;X;;;;;;X;;;;;;CONVENCIONAL
+456;Bairro Anchieta;Rua José Cristino;;;;;X;;;;;;;;CONVENCIONAL
+457;Bairro 25 de Julho;Rua José João Rossini;X;;;;X;;;;X;;;;CONVENCIONAL
+458;Bairro São Miguel;Rua José M. de Andrade;;;;;X;;;;;;;;CONVENCIONAL
+459;Bairro Ponto Chic;Rua José Wagner;;X;;;;X;;X;;;X;;CONVENCIONAL
+460;Bairro Taquaras;Rua Júlio Lunelli;;;X;;;;;;;;;;CONVENCIONAL
+461;Bairro São Miguel;Rua Júlio Schneider (da BR 470 até o limite do perímetro urbano);;;;;X;;;;;;;;CONVENCIONAL
+462;Bairro Centro;Rua Laurentino;X;;;;;X;;;X;;;;CONVENCIONAL
+463;Bairro Centro;Rua Leopoldo Monich;;X;;X;;X;;X;;X;X;;CONVENCIONAL
+464;Bairro Centro;Rua Leopoldo Splitter;;X;;;;;;X;;;;;CONVENCIONAL
+465;Bairro Bela Vista;Rua Lino Moser;X;;;;;;X;;;;;;CONVENCIONAL
+466;Bairro Centro;Rua Lontras;X;;;;;X;;;X;;;;CONVENCIONAL
+467;Bairro Operário;Rua Luiz Pabst;;;X;;;;;;X;;;;CONVENCIONAL
+468;Bairro Ponto Chic;Rua Luiz Rigo;;X;;;;;;X;;;;;CONVENCIONAL
+469;Bairro Areado;Rua Salvador;;;;;X;;;;;;;;CONVENCIONAL
+470;Bairro 25 de Julho;Rua Leoclides da Silva;X;;;;X;;;;X;;;;CONVENCIONAL
+471;Bairro Bela Vista;Rua Machado de Assis;X;;;;;;X;;;;;;CONVENCIONAL
+472;Bairro Centro;Rua Magdalene Aichinger;;X;;;;X;;;;X;;;CONVENCIONAL
+473;Bairro Centro;Rua Magdalene Aichinger;;X;;;;;;X;;;;;CONVENCIONAL
+474;Bairro Centro;Rua Marcílio Jão da Silveira;;;X;;;;;;X;;;;CONVENCIONAL
+475;Bairro Taquaras;Rua Marcos Gramkow ;;;;;;X;;;;;;;CONVENCIONAL
+476;Bairro Bela Vista;Rua Marechal Deodoro;X;;;;;;X;;;;;;CONVENCIONAL
+477;Bairro Ponto Chic;Rua Marechal Rondon;;X;;;;;;X;;;;;CONVENCIONAL
+478;Bairro 25 de Julho;Rua Mariana Marx;X;;;;X;;;;X;;;;CONVENCIONAL
+479;Bairro Ponto Chic;Rua Marquês do Herval (até ponte P. Chick);;X;;;;X;;X;;;X;;CONVENCIONAL
+480;Bairro Centro;Rua Marquês do Herval (até Zum Motos);;X;;X;;X;;X;;X;X;;CONVENCIONAL
+481;Bairro Centro;Rua Martin Schmölz;;X;;;;X;;;;X;;;CONVENCIONAL
+482;Bairro Areado;Rua Mato Grosso;;;;;X;;;;;;;;CONVENCIONAL
+483;Bairro Centro;Rua México;;X;;;;X;;;;X;;;CONVENCIONAL
+484;Bairro Ponto Chic;Rua Mirador;;X;;;;;;X;;;;;CONVENCIONAL
+485;Bairro São Miguel;Rua Moises Amaral;;;;;X;;;;;;;;CONVENCIONAL
+486;Bairro São Miguel;Rua Marcilio Joao de Oliveira;;;;;X;;;;;;;;CONVENCIONAL
+487;Bairro São Miguel;Rua Osmar Gradowski;;;;;X;;;;;;;;CONVENCIONAL
+488;Bairro Centro;Rua Otto João Lyra;X;;;;;X;;;X;;;;CONVENCIONAL
+489;Bairro Ponto Chic;Rua Otto Jost;;X;;;;;;X;;;;;CONVENCIONAL
+490;Bairro Dalbérgia;Rua Otto Lindner;;;;X;;;;;;X;;;CONVENCIONAL
+491;Bairro Centro;Rua Osvaldo Link;X;;;;X;;;;X;;;;CONVENCIONAL
+492;Bairro Anchieta;Rua Palestina;;;;;X;;;;;;;;CONVENCIONAL
+493;Bairro Nova Stettin;Rua das Palmeiras;;;;X;;;;;;X;;;CONVENCIONAL
+494;Bairro Centro;Rua Padre Franz Eigmann;X;;;;;;X;;;;;;CONVENCIONAL
+495;Bairro Areado;Rua Paraná;;;;;X;;;;;;;;CONVENCIONAL
+496;Bairro Anchieta;Rua Paulo Muller;;;;;X;;;;;;;;CONVENCIONAL
+497;Bairro São Miguel;Rua Pedro Antônio;;;;;X;;;;;;;;CONVENCIONAL
+498;Bairro São Miguel;Rua Pedro Perón;;;;;X;;;;;;;;CONVENCIONAL
+499;Bairro Progresso;Rua Pedro Ringemberg;X;;;;;;X;;;;;;CONVENCIONAL
+500;Bairro São Miguel;Rua Pedro da Silva;;;;;X;;;;;;;;CONVENCIONAL
+501;Bairro Bela Vista;Rua Peter Schelle;X;;;;;;X;;;;;;CONVENCIONAL
+502;Bairro Centro;Rua Plácido Trentini;Coleta;realizada uma vez por mês;;;;X;;;;;;;CONVENCIONAL
+503;Bairro Areado;Rua Presidente Castelo Branco;;;;;X;;;;;;;;CONVENCIONAL
+504;Bairro Centro;Rua Presidente Getúlio;X;;;;;;X;;;;;;CONVENCIONAL
+505;Bairro Ponto Chic;Rua Presidente João Goulart;;X;;;;;;X;;;;;CONVENCIONAL
+506;Bairro Operario;Rua Presidente Juscelino;;;X;;;;;;X;;;;CONVENCIONAL
+507;Bairro 25 de Julho;Rua Primavera;X;;;;;X;;;X;;;;CONVENCIONAL
+508;Bairro Bela Vista;Rua Princesa Isabel;X;;;;;;X;;;;;;CONVENCIONAL
+509;Bairro Centro;Rua Profª Gertrud Aichinger;;X;;;;;;X;;;;;CONVENCIONAL
+510;Bairro Bela Vista;Rua Professora Helena Laun;X;;;;;;X;;;;;;CONVENCIONAL
+511;Bairro Ponto Chic;Rua  Nair Ribeiro;;X;;;;;;X;;;;;CONVENCIONAL
+512;Bairro Centro;Rua Regente Feijó;;X;;;;X;;;;X;;;CONVENCIONAL
+513;Bairro Centro;Rua Ricardo Muller;;;X;;;;;;X;;;;CONVENCIONAL
+514;Bairro Centro;Rua Richard Ewald;;X;;;;;;X;;;;;CONVENCIONAL
+515;Bairro Areado;Rua Rio de Janeiro;;;;;X;;;;;;;;CONVENCIONAL
+516;Bairro Centro;Rua Rio do Sul;X;;;;;X;;;X;;;;CONVENCIONAL
+517;Bairro Nova Stettin;Rua Rodeio;;;;X;;;;;;X;;;CONVENCIONAL
+518;Bairro Progresso;Rua Rodolpho Koffke;X;;;;;;X;;;;;;CONVENCIONAL
+519;Bairro Taquaras;Rua Rodolfo Koepsel;X;;;;;X;;;X;;;;CONVENCIONAL
+520;Bairro Centro;Rua Rudolfo Maass;X;;;;;;X;;;;;;CONVENCIONAL
+521;Bairro Bela Vista;Rua Rozene Rossini;X;;;;;;X;;;;;;CONVENCIONAL
+522;Bairro Areado;Rua Castelo Branco;;;;;X;;;;;;;;CONVENCIONAL
+523;Bairro Areado;Rua Carlos Machota ;;;;;X;;;;;;;;CONVENCIONAL
+524;Bairro Rafael;Ribeirão Raffael Alto (última 6ª do mês);;;;;;;;;;X;;;CONVENCIONAL
+525;Bairro Areado;Rua Carlos Machota ;;;depois do Posto de Saúde uma vez por mês;;;;;;;;;;CONVENCIONAL
+526;Bairro Sellin;Rio Sellin (última 5ª do mês);;;;;;;;;;;;;CONVENCIONAL
+527;Bairro Rafael;Rua Ribeirão Rafael;;;;;;;;;;X;;;CONVENCIONAL
+528;Bairro Ponto Chic;Rua Salete;;X;;;;;;X;;;;;CONVENCIONAL
+529;Bairro Areado;Rua Salvador;;;;;X;;;;;;;;CONVENCIONAL
+530;Bairro São Miguel;Rua Santa Catarina;;;;;X;;;;;;;;CONVENCIONAL
+531;Bairro Bela Vista;Rua Santa Cruz (até a Rua Adolfo Zeiser – exclusive);X;;;;;;X;;;;;;CONVENCIONAL
+532;Bairro Progresso;Rua Santa Cruz  (da Rua Adolfo Zeiser – inclusive, até o final do perímetro urbano);X;;;;;;X;;;;;;CONVENCIONAL
+533;Bairro Bela Vista;Rua Santos Dumont;X;;;;;;X;;;;;;CONVENCIONAL
+534;Bairro São Miguel;Rua Salto Pilao;;;;;X;;;;;;;;CONVENCIONAL
+535;Bairro São Miguel;Rua São Sebastião;;;;;X;;;;;;;;CONVENCIONAL
+536;Bairro Ponto Chic;Rua Tancredo Neves;;X;;;;;;X;;;;;CONVENCIONAL
+537;Bairro Centro;Rua Tiradentes;;X;;X;;X;;X;;X;X;;CONVENCIONAL
+538;Bairro Areado;Rua Tocantins;;;;;X;;;;;;;;CONVENCIONAL
+539;Bairro Taquaras;Rua Taquaras;;;X;;;;;;;;;;CONVENCIONAL
+540;Bairro Progresso;Rua União;X;;;;;;X;;;;;;CONVENCIONAL
+541;Bairro São Miguel;Rua Valdomiro Vieira;;;;;X;;;;;;;;CONVENCIONAL
+542;Bairro Centro;Rua Vereador Alberto Laun;;X;;;;X;;;;X;;;CONVENCIONAL
+543;Bairro Operário;Rua Vereador Gerd Schlegel;;;X;;;;;;X;;;;CONVENCIONAL
+544;Bairro São Miguel;Rua Vicente F. de Amaral;;;;;X;;;;;;;;CONVENCIONAL
+545;Bairro Progresso;Rua Victor Holetz;X;;;;;;X;;;;;;CONVENCIONAL
+546;Bairro Centro;Rua Victor Meirelles;X;;;;;X;;;X;;;;CONVENCIONAL
+547;Bairro Progresso;Rua Walter Frech;X;;;;;;X;;;;;;CONVENCIONAL
+548;Bairro Progresso;Rua Walter Grahl;X;;;;;;X;;;;;;CONVENCIONAL
+549;Bairro Bela Vista;Rua Walter Ideker;X;;;;;;X;;;;;;CONVENCIONAL
+550;Bairro Bela Vista;Rua Werner Weber;X;;;;;;X;;;;;;CONVENCIONAL
+551;Bairro Centro;Rua Willy Luderwaldt;X;;;;;X;;;X;;;;CONVENCIONAL
+552;Bairro Bela Vista;Rua Professor Walter Kietzer;;;;;X;;;;;;;;CONVENCIONAL
+553;Bairro São Miguel;Travessa André Lino;;;;;X;;;;;;;;CONVENCIONAL
+554;Bairro São Miguel;Rua 19 de Dezembro;;;;;X;;;;;;;;CONVENCIONAL
